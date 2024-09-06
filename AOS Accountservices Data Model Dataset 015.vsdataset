@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="518273bf-08f9-422a-93fe-2217d78aa64e" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="58df706d-cb3f-4f5d-ad4e-17e19c712e42" sorId="1d6e1002-5b87-48cb-af2b-a35b74592d3c" hc="-832645688" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="4f9cba24-ad76-4654-a157-5bfefe1cab8e" ts="2021-06-15T16:23:47.9708598Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetCountriesRequestRequest</ntId>
+    <ntId p="12:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetCountriesResponseResponse</ntId>
+    <s p="19:1">sim_default_X-Content-Type-Options</s>
+    <s p="20:1">sim_default_X-XSS-Protection</s>
+    <s p="21:1">sim_default_Cache-Control</s>
+    <s p="22:1">sim_default_Pragma</s>
+    <s p="23:1">sim_default_X-Frame-Options</s>
+    <s p="24:1">sim_default_Access-Control-Request-Method</s>
+    <s p="25:1">sim_default_Access-Control-Allow-Methods</s>
+    <s p="26:1">sim_default_Access-Control-Max-Age</s>
+    <s p="27:1">sim_default_Access-Control-Allow-Headers</s>
+    <s p="28:1">sim_default_Access-Control-Allow-Origin</s>
+    <s p="29:1">sim_default_Accept</s>
+    <s p="30:1">sim_default_SOAPAction</s>
+    <s p="31:1">sim_default_Date</s>
+    <s p="32:1">sim_default_Expires</s>
+    <s p="33:1">sim_default_Vary</s>
+    <s p="42:2">sim_default_id</s>
+    <s p="43:2">sim_default_name</s>
+    <s p="44:2">sim_default_isoName</s>
+    <s p="45:2">sim_default_phonePrefix</s>
+  </sc>
+  <sc id="ec05ce63-239e-48c8-8151-7d1e591fbf5e" ts="2021-06-15T16:23:48.3255802Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetCountriesRequestRequest</ntId>
+    <ntId p="12:1">default-fault</ntId>
+    <s p="14:1">sim_default_faultcode</s>
+    <s p="16:1">sim_default_faultactor</s>
+    <s p="19:1">sim_default_X-Content-Type-Options</s>
+    <s p="20:1">sim_default_X-XSS-Protection</s>
+    <s p="21:1">sim_default_Cache-Control</s>
+    <s p="22:1">sim_default_Pragma</s>
+    <s p="23:1">sim_default_X-Frame-Options</s>
+    <s p="24:1">sim_default_Access-Control-Request-Method</s>
+    <s p="25:1">sim_default_Access-Control-Allow-Methods</s>
+    <s p="26:1">sim_default_Access-Control-Max-Age</s>
+    <s p="27:1">sim_default_Access-Control-Allow-Headers</s>
+    <s p="28:1">sim_default_Access-Control-Allow-Origin</s>
+    <s p="29:1">sim_default_Accept</s>
+    <s p="30:1">sim_default_SOAPAction</s>
+    <s p="31:1">sim_default_Date</s>
+    <s p="32:1">sim_default_Expires</s>
+    <s p="33:1">sim_default_Vary</s>
+    <s p="34:1">sim_default_lang</s>
+    <s p="35:1">sim_default_value</s>
+    <s p="38:2"></s>
+  </sc>
+</ds>

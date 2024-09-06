@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<deploymentManifest id="manifest_1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" rootItemId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <Item id="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" type="VirtualService">
+    <References>
+      <Ref id="08eb86cf-b1e9-4d7c-bb3b-55393a7242a0" />
+      <Ref id="58df706d-cb3f-4f5d-ad4e-17e19c712e42" />
+      <Ref id="af0c1b52-632d-4166-91a5-569c582a3b7b" />
+      <Ref id="b3e64ce0-530b-42ef-ba79-67dff0266d13" />
+      <Ref id="c1e912bc-09fe-4d03-b063-e73988b3a480" />
+      <Ref id="cac370b2-b08c-4c48-a94a-34e09f8de9ff" />
+    </References>
+  </Item>
+  <Item id="cac370b2-b08c-4c48-a94a-34e09f8de9ff" type="PerformanceModel">
+    <References />
+  </Item>
+  <Item id="af0c1b52-632d-4166-91a5-569c582a3b7b" type="PerformanceModel">
+    <References />
+  </Item>
+  <Item id="b3e64ce0-530b-42ef-ba79-67dff0266d13" type="PerformanceModel">
+    <References />
+  </Item>
+  <Item id="08eb86cf-b1e9-4d7c-bb3b-55393a7242a0" type="DataModel">
+    <References>
+      <Ref id="01028ffd-e00a-46f3-a8bc-c3826eee0388" />
+      <Ref id="045dd60a-e71e-4b12-af77-f633b81d4d00" />
+      <Ref id="0d6d267b-56e8-4383-a211-aaa80f3513d6" />
+      <Ref id="2595a8c2-b08a-46e9-abe9-0cd9a815a84c" />
+      <Ref id="4588a738-54e2-475f-bf5d-a75e5f634843" />
+      <Ref id="499499de-4c23-4b34-8f6c-6bdb899a4232" />
+      <Ref id="78d1efc7-3900-4cbc-9f43-d70c1fbb80c1" />
+      <Ref id="7e997fcb-dbd8-41c9-8287-3b9a41631167" />
+      <Ref id="859dffdb-44be-4a7b-9116-6eab23e70ab2" />
+      <Ref id="85d79a65-832b-4762-9c88-c8632e4cd139" />
+      <Ref id="9061a0c0-64ac-409a-9ecf-194a317e7809" />
+      <Ref id="abc2a1e5-afcf-42f2-a98b-80057521da1d" />
+      <Ref id="c1e912bc-09fe-4d03-b063-e73988b3a480" />
+      <Ref id="c9b16121-3e17-48d8-9755-01472aa97223" />
+      <Ref id="cb78eb2c-b366-418a-81c8-8a8cfd8dd28c" />
+      <Ref id="cc8624cd-8b45-4f7a-9a8a-afd7c9f96e3b" />
+      <Ref id="cc89d70a-fc65-40eb-9e57-a8d13e8d2bc3" />
+      <Ref id="dc428c9c-6631-4a77-98e1-fece6075c8c9" />
+      <Ref id="e80c4f86-3402-4db3-a1cd-8f597dcc7212" />
+      <Ref id="e95665e5-3282-4460-9bd3-5e60f33f7999" />
+      <Ref id="ea8c4070-98c6-473b-b0bd-18c89be3adcd" />
+      <Ref id="f912651c-dea6-4308-98b9-ad522b87632c" />
+      <Ref id="fd4ca570-ee0e-4ff4-b57b-0e9394ea6a7c" />
+      <Ref id="febed7b3-9622-45a1-aac4-0cf429d46523" />
+    </References>
+  </Item>
+  <Item id="c1e912bc-09fe-4d03-b063-e73988b3a480" type="ServiceDescription">
+    <References />
+  </Item>
+  <Item id="f912651c-dea6-4308-98b9-ad522b87632c" type="Dataset" contentHashcode="1894688084">
+    <References />
+  </Item>
+  <Item id="c9b16121-3e17-48d8-9755-01472aa97223" type="Dataset" contentHashcode="-507530072">
+    <References />
+  </Item>
+  <Item id="cc8624cd-8b45-4f7a-9a8a-afd7c9f96e3b" type="Dataset" contentHashcode="1701353607">
+    <References />
+  </Item>
+  <Item id="e80c4f86-3402-4db3-a1cd-8f597dcc7212" type="Dataset" contentHashcode="1454894886">
+    <References />
+  </Item>
+  <Item id="045dd60a-e71e-4b12-af77-f633b81d4d00" type="Dataset" contentHashcode="1605155009">
+    <References />
+  </Item>
+  <Item id="85d79a65-832b-4762-9c88-c8632e4cd139" type="Dataset" contentHashcode="351708501">
+    <References />
+  </Item>
+  <Item id="fd4ca570-ee0e-4ff4-b57b-0e9394ea6a7c" type="Dataset" contentHashcode="-726606990">
+    <References />
+  </Item>
+  <Item id="febed7b3-9622-45a1-aac4-0cf429d46523" type="Dataset" contentHashcode="2069658216">
+    <References />
+  </Item>
+  <Item id="4588a738-54e2-475f-bf5d-a75e5f634843" type="Dataset" contentHashcode="-682675575">
+    <References />
+  </Item>
+  <Item id="9061a0c0-64ac-409a-9ecf-194a317e7809" type="Dataset" contentHashcode="-1776329231">
+    <References />
+  </Item>
+  <Item id="cb78eb2c-b366-418a-81c8-8a8cfd8dd28c" type="Dataset" contentHashcode="1138389079">
+    <References />
+  </Item>
+  <Item id="0d6d267b-56e8-4383-a211-aaa80f3513d6" type="Dataset" contentHashcode="1593397161">
+    <References />
+  </Item>
+  <Item id="78d1efc7-3900-4cbc-9f43-d70c1fbb80c1" type="Dataset" contentHashcode="-2013105848">
+    <References />
+  </Item>
+  <Item id="859dffdb-44be-4a7b-9116-6eab23e70ab2" type="Dataset" contentHashcode="-2069604929">
+    <References />
+  </Item>
+  <Item id="2595a8c2-b08a-46e9-abe9-0cd9a815a84c" type="Dataset" contentHashcode="-1551487007">
+    <References />
+  </Item>
+  <Item id="abc2a1e5-afcf-42f2-a98b-80057521da1d" type="Dataset" contentHashcode="1674969173">
+    <References />
+  </Item>
+  <Item id="499499de-4c23-4b34-8f6c-6bdb899a4232" type="Dataset" contentHashcode="-1374164682">
+    <References />
+  </Item>
+  <Item id="dc428c9c-6631-4a77-98e1-fece6075c8c9" type="Dataset" contentHashcode="1399113641">
+    <References />
+  </Item>
+  <Item id="7e997fcb-dbd8-41c9-8287-3b9a41631167" type="Dataset" contentHashcode="-1259152588">
+    <References />
+  </Item>
+  <Item id="e95665e5-3282-4460-9bd3-5e60f33f7999" type="Dataset" contentHashcode="-2072619880">
+    <References />
+  </Item>
+  <Item id="58df706d-cb3f-4f5d-ad4e-17e19c712e42" type="DataModel">
+    <References>
+      <Ref id="06f3f21a-7001-435d-94f6-95302bb75877" />
+      <Ref id="096380b1-ab88-425c-89c5-6a30db50856e" />
+      <Ref id="146c7cba-43c9-4c24-b352-8c21e986b70f" />
+      <Ref id="3ef3055b-d912-4368-8da6-3b61f0629b89" />
+      <Ref id="473d6545-0962-481f-8658-1b14d8357286" />
+      <Ref id="518273bf-08f9-422a-93fe-2217d78aa64e" />
+      <Ref id="7e889729-ca4b-495c-bc1f-6baf34a182fa" />
+      <Ref id="85de2bbd-3411-45eb-9c62-b61a9804ec52" />
+      <Ref id="93df5145-e724-44f1-b3ec-d1de560622f4" />
+      <Ref id="9c682ba0-a836-4711-8c45-0dbd7a32e7ab" />
+      <Ref id="a154cc1e-86bb-406a-96a8-e31c7d25fcc6" />
+      <Ref id="a4298f55-d20d-4477-a5db-a2bc27a08d69" />
+      <Ref id="c1e912bc-09fe-4d03-b063-e73988b3a480" />
+      <Ref id="c98bab22-a1c9-45cd-8e94-3f01cac311ee" />
+      <Ref id="ca1f58e6-bd64-4ea5-ba51-0d4ccfec7329" />
+      <Ref id="d68baac2-2987-45e8-9705-a7227f366be3" />
+      <Ref id="db1c0e20-0282-4518-bd12-dbaf263a19cd" />
+      <Ref id="e475589d-921f-4576-b969-8b9efea8dd70" />
+      <Ref id="fda114ab-dd74-4c25-8af2-2ca7eb171315" />
+    </References>
+  </Item>
+  <Item id="7e889729-ca4b-495c-bc1f-6baf34a182fa" type="Dataset" contentHashcode="1207956185">
+    <References />
+  </Item>
+  <Item id="a4298f55-d20d-4477-a5db-a2bc27a08d69" type="Dataset" contentHashcode="1012878491">
+    <References />
+  </Item>
+  <Item id="146c7cba-43c9-4c24-b352-8c21e986b70f" type="Dataset" contentHashcode="1657088991">
+    <References />
+  </Item>
+  <Item id="c98bab22-a1c9-45cd-8e94-3f01cac311ee" type="Dataset" contentHashcode="-1381876804">
+    <References />
+  </Item>
+  <Item id="e475589d-921f-4576-b969-8b9efea8dd70" type="Dataset" contentHashcode="-88001538">
+    <References />
+  </Item>
+  <Item id="a154cc1e-86bb-406a-96a8-e31c7d25fcc6" type="Dataset" contentHashcode="194343997">
+    <References />
+  </Item>
+  <Item id="3ef3055b-d912-4368-8da6-3b61f0629b89" type="Dataset" contentHashcode="-272411377">
+    <References />
+  </Item>
+  <Item id="096380b1-ab88-425c-89c5-6a30db50856e" type="Dataset" contentHashcode="-744688661">
+    <References />
+  </Item>
+  <Item id="06f3f21a-7001-435d-94f6-95302bb75877" type="Dataset" contentHashcode="2004031652">
+    <References />
+  </Item>
+  <Item id="fda114ab-dd74-4c25-8af2-2ca7eb171315" type="Dataset" contentHashcode="-1865386316">
+    <References />
+  </Item>
+  <Item id="db1c0e20-0282-4518-bd12-dbaf263a19cd" type="Dataset" contentHashcode="1231846498">
+    <References />
+  </Item>
+  <Item id="85de2bbd-3411-45eb-9c62-b61a9804ec52" type="Dataset" contentHashcode="655385860">
+    <References />
+  </Item>
+  <Item id="473d6545-0962-481f-8658-1b14d8357286" type="Dataset" contentHashcode="1916182706">
+    <References />
+  </Item>
+  <Item id="d68baac2-2987-45e8-9705-a7227f366be3" type="Dataset" contentHashcode="-470601496">
+    <References />
+  </Item>
+  <Item id="93df5145-e724-44f1-b3ec-d1de560622f4" type="Dataset" contentHashcode="-987101992">
+    <References />
+  </Item>
+  <Item id="518273bf-08f9-422a-93fe-2217d78aa64e" type="Dataset" contentHashcode="-832645688">
+    <References />
+  </Item>
+  <Item id="ca1f58e6-bd64-4ea5-ba51-0d4ccfec7329" type="Dataset" contentHashcode="1595195552">
+    <References />
+  </Item>
+  <Item id="9c682ba0-a836-4711-8c45-0dbd7a32e7ab" type="Dataset" contentHashcode="-1594300015">
+    <References />
+  </Item>
+  <Item id="01028ffd-e00a-46f3-a8bc-c3826eee0388" type="Dataset" contentHashcode="-1105788191">
+    <References />
+  </Item>
+  <Item id="cc89d70a-fc65-40eb-9e57-a8d13e8d2bc3" type="Dataset" contentHashcode="-2007287263">
+    <References />
+  </Item>
+  <Item id="ea8c4070-98c6-473b-b0bd-18c89be3adcd" type="Dataset" contentHashcode="1106843906">
+    <References />
+  </Item>
+</deploymentManifest>

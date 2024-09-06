@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="7e889729-ca4b-495c-bc1f-6baf34a182fa" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="58df706d-cb3f-4f5d-ad4e-17e19c712e42" sorId="836cf557-c042-4616-bde1-eb6028922331" hc="1207956185" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="b5d096f7-858f-49df-8117-17474a46b2e5" ts="2021-06-15T15:32:23.487Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}AccountLoginRequestRequest</ntId>
+    <s p="5:1">192.168.91.128</s>
+    <ec p="8:1" />
+    <s p="9:1">HTTP</s>
+    <ec p="11:1" />
+    <s p="12:1">DemoUser123</s>
+    <s p="13:1">DemoUser</s>
+    <ntId p="15:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}AccountLoginResponseResponse</ntId>
+    <s p="22:1">nosniff</s>
+    <s p="23:1">1; mode=block</s>
+    <s p="24:1">no-store</s>
+    <s p="25:1">no-cache</s>
+    <s p="26:1">DENY</s>
+    <s p="27:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="28:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="29:1">3600</s>
+    <s p="30:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="31:1">*</s>
+    <s p="32:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="33:1">""</s>
+    <s p="34:1">Tue, 15 Jun 2021 15:32:23 GMT</s>
+    <s p="35:1">0</s>
+    <s p="43:1">true</s>
+    <s p="44:1">833566842</s>
+    <s p="45:1">Login Successful</s>
+    <s p="46:1">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3d3cuYWR2YW50YWdlb25saW5lc2hvcHBpbmcuY29tIiwidXNlcklkIjo4MzM1NjY4NDIsInN1YiI6IkRlbW9Vc2VyIiwicm9sZSI6IlVTRVIifQ.JEzlGI46PE_A59J0A5NDouNxaO5gvagS9y_BJOjGBP8</s>
+    <s p="47:1">17a104d5d80@7E56FF2017^i%833566842</s>
+    <s p="48:1">RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+    <s p="49:1">20</s>
+  </sc>
+</ds>

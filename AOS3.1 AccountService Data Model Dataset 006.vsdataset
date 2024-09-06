@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="fd4ca570-ee0e-4ff4-b57b-0e9394ea6a7c" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="08eb86cf-b1e9-4d7c-bb3b-55393a7242a0" sorId="836ce662-e9f2-4ef6-98eb-acfa66383f78" hc="-726606990" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="54c83d5b-ea8e-4671-bc26-c785b6a8c52f" ts="2021-06-15T16:23:27.195Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByIdNewResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByIdNewRequestRequest</ntId>
+    <s p="15:1">nosniff</s>
+    <s p="16:1">1; mode=block</s>
+    <s p="17:1">no-store</s>
+    <s p="18:1">no-cache</s>
+    <s p="19:1">DENY</s>
+    <s p="20:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="21:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="22:1">3600</s>
+    <s p="23:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="24:1">*</s>
+    <s p="25:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="26:1">""</s>
+    <s p="27:1">Tue, 15 Jun 2021 16:23:27 GMT</s>
+    <s p="28:1">0</s>
+    <s p="30:1">833566842</s>
+    <ec p="31:1" />
+    <ec p="32:1" />
+    <s p="33:1">DemoUser</s>
+    <s p="34:1">20</s>
+    <s p="35:1">40</s>
+    <s p="36:1">United States</s>
+    <s p="37:1">us</s>
+    <ec p="38:1" />
+    <ec p="39:1" />
+    <ec p="40:1" />
+    <ec p="41:1" />
+    <ec p="42:1" />
+    <s p="43:1">DemoUser123@microfocus.com</s>
+    <s p="44:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">0</s>
+    <s p="48:1">0</s>
+    <s p="54:1">192.168.91.128</s>
+    <ec p="57:1" />
+    <s p="58:1">HTTP</s>
+    <s p="59:1">833566842</s>
+    <s p="60:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+  </sc>
+</ds>

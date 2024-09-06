@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="ca1f58e6-bd64-4ea5-ba51-0d4ccfec7329" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="58df706d-cb3f-4f5d-ad4e-17e19c712e42" sorId="c846ce16-d07a-404d-a5a5-16d6ec807ca1" hc="1595195552" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="93157011-907d-4bd9-9957-6165ef92cc59" ts="2021-06-15T15:32:26.353Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}UpdateSafePayMethodRequestRequest</ntId>
+    <s p="5:1">192.168.91.128</s>
+    <ec p="8:1" />
+    <s p="9:1">HTTP</s>
+    <s p="11:1">833566842</s>
+    <s p="12:1">DemoUser</s>
+    <s p="13:1">9ec2c01ba20e</s>
+    <s p="14:1">1234567890</s>
+    <s p="15:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+    <ntId p="17:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}UpdateSafePayMethodResponseResponse</ntId>
+    <s p="24:1">nosniff</s>
+    <s p="25:1">1; mode=block</s>
+    <s p="26:1">no-store</s>
+    <s p="27:1">no-cache</s>
+    <s p="28:1">DENY</s>
+    <s p="29:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="30:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="31:1">3600</s>
+    <s p="32:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="33:1">*</s>
+    <s p="34:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="35:1">""</s>
+    <s p="36:1">Tue, 15 Jun 2021 15:32:26 GMT</s>
+    <s p="37:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">SafePay data updated successfully</s>
+  </sc>
+</ds>

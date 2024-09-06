@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="e475589d-921f-4576-b969-8b9efea8dd70" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="58df706d-cb3f-4f5d-ad4e-17e19c712e42" sorId="d0ca6485-9cec-4f8c-a601-0612512a8d1a" hc="-88001538" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="4bb2dfc5-2000-4cb6-a468-b402f3eb0e9a" ts="2021-06-15T15:32:26.4Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}EncodePasswordRequestRequest</ntId>
+    <s p="5:1">172.50.0.1</s>
+    <ec p="8:1" />
+    <s p="9:1">HTTP</s>
+    <s p="11:1">833566842</s>
+    <s p="12:1">DemoUser123</s>
+    <s p="13:1">DemoUser</s>
+    <s p="14:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+    <ntId p="16:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}EncodePasswordResponseResponse</ntId>
+    <s p="23:1">nosniff</s>
+    <s p="24:1">1; mode=block</s>
+    <s p="25:1">no-store</s>
+    <s p="26:1">no-cache</s>
+    <s p="27:1">DENY</s>
+    <s p="28:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="29:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="30:1">3600</s>
+    <s p="31:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="32:1">*</s>
+    <s p="33:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="34:1">""</s>
+    <s p="35:1">Tue, 15 Jun 2021 15:32:26 GMT</s>
+    <s p="36:1">0</s>
+    <s p="43:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+  </sc>
+  <sc id="6b77b5b9-e3c6-4c2a-bdbd-205a2bb9a14c" ts="2021-06-15T15:32:23.623Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}EncodePasswordRequestRequest</ntId>
+    <s p="5:1">172.50.0.1</s>
+    <ec p="8:1" />
+    <s p="9:1">HTTP</s>
+    <s p="11:1">833566842</s>
+    <s p="12:1">DemoUser123</s>
+    <s p="13:1">DemoUser</s>
+    <s p="14:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+    <ntId p="16:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}EncodePasswordResponseResponse</ntId>
+    <s p="23:1">nosniff</s>
+    <s p="24:1">1; mode=block</s>
+    <s p="25:1">no-store</s>
+    <s p="26:1">no-cache</s>
+    <s p="27:1">DENY</s>
+    <s p="28:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="29:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="30:1">3600</s>
+    <s p="31:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="32:1">*</s>
+    <s p="33:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="34:1">""</s>
+    <s p="35:1">Tue, 15 Jun 2021 15:32:23 GMT</s>
+    <s p="36:1">0</s>
+    <s p="43:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+  </sc>
+  <sc id="ac55cff7-9345-4d76-a9bf-946fb1354e2b" ts="2021-06-15T15:32:24.785Z" ri="1" rc="1" rr="false">
+    <ntId p="3:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}EncodePasswordRequestRequest</ntId>
+    <s p="5:1">172.50.0.1</s>
+    <ec p="8:1" />
+    <s p="9:1">HTTP</s>
+    <s p="11:1">833566842</s>
+    <s p="12:1">DemoUser123</s>
+    <s p="13:1">DemoUser</s>
+    <s p="14:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+    <ntId p="16:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}EncodePasswordResponseResponse</ntId>
+    <s p="23:1">nosniff</s>
+    <s p="24:1">1; mode=block</s>
+    <s p="25:1">no-store</s>
+    <s p="26:1">no-cache</s>
+    <s p="27:1">DENY</s>
+    <s p="28:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="29:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="30:1">3600</s>
+    <s p="31:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="32:1">*</s>
+    <s p="33:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="34:1">""</s>
+    <s p="35:1">Tue, 15 Jun 2021 15:32:24 GMT</s>
+    <s p="36:1">0</s>
+    <s p="43:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+  </sc>
+</ds>

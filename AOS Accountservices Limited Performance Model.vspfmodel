@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<performanceModel version="5.9.0.1616" id="af0c1b52-632d-4166-91a5-569c582a3b7b" name="AOS Accountservices Limited Performance Model" description="Performance Model for AOS Accountservices with limited TPS" virtualServiceId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" isPerformanceBoostingActive="true" activeBoosterId="Cpu" isServiceBoostingActive="true" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <throughputMetric isActive="false" limit="0" />
+  <tpsMetric isActive="true" limit="10" />
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:AccountLoginRequest/ns0:AccountLoginRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:GetAccountByLoginRequest/ns0:GetAccountByLoginRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:EncodePasswordRequest/ns0:EncodePasswordRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:GetAccountByIdRequest/ns0:GetAccountByIdRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:GetAccountByIdNewRequest/ns0:GetAccountByIdNewRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:GetAccountPaymentPreferencesRequest/ns0:GetAccountPaymentPreferencesRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:UpdateSafePayMethodRequest/ns0:UpdateSafePayMethodRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:AccountLogoutRequest/ns0:AccountLogoutRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:GetAccountConfigurationRequest/ns0:GetAccountConfigurationRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <operation operationId="xmlns(ns0=urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525)operation(ns0:GetCountriesRequest/ns0:GetCountriesRequestRequest/)" isOperationBoostingActive="true">
+    <throughputMetric isActive="false" limit="0" />
+    <tpsMetric isActive="false" limit="0" />
+    <PeriodicMessageSchedulingSpecification isActive="false" bss="SequentialSingleThreaded" frequency="60000">
+      <relativeMessageSchedulingStartSpecification startDelay="0" />
+    </PeriodicMessageSchedulingSpecification>
+    <responseTimeMetric responseTimeMode="ValueWithTolerance" baseResponseTime="0" baseResponseTimeAbsMin="0" baseResponseTimeAbsMax="0" hitRateThreshold="0" maximumResponseTime="0" multiResponseIntervalTime="0" maximumHitRate="0" tolerance="0" totalDatapointsCount="0" />
+  </operation>
+  <boosterValues boosterId="Cpu">
+    <sliderValue value="0" />
+  </boosterValues>
+  <boosterValues boosterId="Network">
+    <sliderValue value="0" />
+  </boosterValues>
+  <boosterValues boosterId="Cluster">
+    <sliderValue value="0" />
+  </boosterValues>
+  <boosterValues boosterId="Expert">
+    <sliderValue value="0" />
+    <sliderValue value="0" />
+    <sliderValue value="0" />
+    <sliderValue value="0" />
+  </boosterValues>
+</performanceModel>

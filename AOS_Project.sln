@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "AOS_Project", "AOS_Project.vproj", "{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug| = Debug|
+		Release| = Release|
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Release|Any CPU.Build.0 = Release|Any CPU
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Debug|.Build.0 = Debug|
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Debug|.ActiveCfg = Debug|
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Release|.Build.0 = Release|
+		{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}.Release|.ActiveCfg = Release|
+	EndGlobalSection
+EndGlobal

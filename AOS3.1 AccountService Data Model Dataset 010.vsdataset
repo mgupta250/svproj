@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="cb78eb2c-b366-418a-81c8-8a8cfd8dd28c" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="08eb86cf-b1e9-4d7c-bb3b-55393a7242a0" sorId="79f64d9b-8fbb-41b6-b7f4-05a736dd07b1" hc="1138389079" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="0bf2b989-1417-4d0d-8d36-373e54b369a2" ts="2021-06-15T16:23:07.613Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginRequestRequest</ntId>
+    <s p="15:1">nosniff</s>
+    <s p="16:1">1; mode=block</s>
+    <s p="17:1">no-store</s>
+    <s p="18:1">no-cache</s>
+    <s p="19:1">DENY</s>
+    <s p="20:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="21:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="22:1">3600</s>
+    <s p="23:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="24:1">*</s>
+    <s p="25:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="26:1">""</s>
+    <s p="27:1">Tue, 15 Jun 2021 16:23:07 GMT</s>
+    <s p="28:1">0</s>
+    <s p="30:1">833566842</s>
+    <ec p="31:1" />
+    <ec p="32:1" />
+    <s p="33:1">DemoUser</s>
+    <s p="34:1">20</s>
+    <s p="35:1">40</s>
+    <s p="36:1">United States</s>
+    <s p="37:1">us</s>
+    <ec p="38:1" />
+    <ec p="39:1" />
+    <ec p="40:1" />
+    <ec p="41:1" />
+    <ec p="42:1" />
+    <s p="43:1">DemoUser123@microfocus.com</s>
+    <s p="44:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">0</s>
+    <s p="48:1">0</s>
+    <s p="49:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+    <s p="55:1">172.50.0.1</s>
+    <ec p="58:1" />
+    <s p="59:1">HTTP</s>
+    <s p="60:1">DemoUser</s>
+    <s p="61:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+  </sc>
+  <sc id="702dda1c-85b2-4adc-b006-8dd991b0cf41" ts="2021-06-15T16:23:33.257Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginRequestRequest</ntId>
+    <s p="15:1">nosniff</s>
+    <s p="16:1">1; mode=block</s>
+    <s p="17:1">no-store</s>
+    <s p="18:1">no-cache</s>
+    <s p="19:1">DENY</s>
+    <s p="20:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="21:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="22:1">3600</s>
+    <s p="23:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="24:1">*</s>
+    <s p="25:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="26:1">""</s>
+    <s p="27:1">Tue, 15 Jun 2021 16:23:33 GMT</s>
+    <s p="28:1">0</s>
+    <s p="30:1">833566842</s>
+    <ec p="31:1" />
+    <ec p="32:1" />
+    <s p="33:1">DemoUser</s>
+    <s p="34:1">20</s>
+    <s p="35:1">40</s>
+    <s p="36:1">United States</s>
+    <s p="37:1">us</s>
+    <ec p="38:1" />
+    <ec p="39:1" />
+    <ec p="40:1" />
+    <ec p="41:1" />
+    <ec p="42:1" />
+    <s p="43:1">DemoUser123@microfocus.com</s>
+    <s p="44:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">0</s>
+    <s p="48:1">0</s>
+    <s p="49:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+    <s p="55:1">172.50.0.1</s>
+    <ec p="58:1" />
+    <s p="59:1">HTTP</s>
+    <s p="60:1">DemoUser</s>
+    <s p="61:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+  </sc>
+  <sc id="9d8749b3-58d9-4409-8bb9-d2d52401c1e4" ts="2021-06-15T16:23:17.855Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginRequestRequest</ntId>
+    <s p="15:1">nosniff</s>
+    <s p="16:1">1; mode=block</s>
+    <s p="17:1">no-store</s>
+    <s p="18:1">no-cache</s>
+    <s p="19:1">DENY</s>
+    <s p="20:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="21:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="22:1">3600</s>
+    <s p="23:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="24:1">*</s>
+    <s p="25:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="26:1">""</s>
+    <s p="27:1">Tue, 15 Jun 2021 16:23:17 GMT</s>
+    <s p="28:1">0</s>
+    <s p="30:1">833566842</s>
+    <ec p="31:1" />
+    <ec p="32:1" />
+    <s p="33:1">DemoUser</s>
+    <s p="34:1">20</s>
+    <s p="35:1">40</s>
+    <s p="36:1">United States</s>
+    <s p="37:1">us</s>
+    <ec p="38:1" />
+    <ec p="39:1" />
+    <ec p="40:1" />
+    <ec p="41:1" />
+    <ec p="42:1" />
+    <s p="43:1">DemoUser123@microfocus.com</s>
+    <s p="44:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">0</s>
+    <s p="48:1">0</s>
+    <s p="49:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+    <s p="55:1">172.50.0.1</s>
+    <ec p="58:1" />
+    <s p="59:1">HTTP</s>
+    <s p="60:1">DemoUser</s>
+    <s p="61:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+  </sc>
+  <sc id="c038ae20-caf0-4f67-a584-4c54e4a55ad7" ts="2021-06-15T16:23:24.38Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginRequestRequest</ntId>
+    <s p="15:1">nosniff</s>
+    <s p="16:1">1; mode=block</s>
+    <s p="17:1">no-store</s>
+    <s p="18:1">no-cache</s>
+    <s p="19:1">DENY</s>
+    <s p="20:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="21:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="22:1">3600</s>
+    <s p="23:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="24:1">*</s>
+    <s p="25:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="26:1">""</s>
+    <s p="27:1">Tue, 15 Jun 2021 16:23:24 GMT</s>
+    <s p="28:1">0</s>
+    <s p="30:1">833566842</s>
+    <ec p="31:1" />
+    <ec p="32:1" />
+    <s p="33:1">DemoUser</s>
+    <s p="34:1">20</s>
+    <s p="35:1">40</s>
+    <s p="36:1">United States</s>
+    <s p="37:1">us</s>
+    <ec p="38:1" />
+    <ec p="39:1" />
+    <ec p="40:1" />
+    <ec p="41:1" />
+    <ec p="42:1" />
+    <s p="43:1">DemoUser123@microfocus.com</s>
+    <s p="44:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">0</s>
+    <s p="48:1">0</s>
+    <s p="49:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+    <s p="55:1">172.50.0.1</s>
+    <ec p="58:1" />
+    <s p="59:1">HTTP</s>
+    <s p="60:1">DemoUser</s>
+    <s p="61:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+  </sc>
+  <sc id="c587cf6e-98ef-473e-991e-c8d5d1f6ee23" ts="2021-06-15T16:23:27.27Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountByLoginRequestRequest</ntId>
+    <s p="15:1">nosniff</s>
+    <s p="16:1">1; mode=block</s>
+    <s p="17:1">no-store</s>
+    <s p="18:1">no-cache</s>
+    <s p="19:1">DENY</s>
+    <s p="20:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="21:1">POST, GET, OPTIONS, DELETE</s>
+    <s p="22:1">3600</s>
+    <s p="23:1">Origin, X-Requested-With, Content-Type, Accept, Key, soapaction</s>
+    <s p="24:1">*</s>
+    <s p="25:1">text/xml,text/html,image/gif,image/jpeg,*; q=.2,*/*; q=.2</s>
+    <s p="26:1">""</s>
+    <s p="27:1">Tue, 15 Jun 2021 16:23:27 GMT</s>
+    <s p="28:1">0</s>
+    <s p="30:1">833566842</s>
+    <ec p="31:1" />
+    <ec p="32:1" />
+    <s p="33:1">DemoUser</s>
+    <s p="34:1">20</s>
+    <s p="35:1">40</s>
+    <s p="36:1">United States</s>
+    <s p="37:1">us</s>
+    <ec p="38:1" />
+    <ec p="39:1" />
+    <ec p="40:1" />
+    <ec p="41:1" />
+    <ec p="42:1" />
+    <s p="43:1">DemoUser123@microfocus.com</s>
+    <s p="44:1">0</s>
+    <s p="45:1">true</s>
+    <s p="46:1">0</s>
+    <s p="47:1">0</s>
+    <s p="48:1">0</s>
+    <s p="49:1">b28b0b480007764e5c9a1a371402c830f8167d47</s>
+    <s p="55:1">172.50.0.1</s>
+    <ec p="58:1" />
+    <s p="59:1">HTTP</s>
+    <s p="60:1">DemoUser</s>
+    <s p="61:1">Basic RGVtb1VzZXI6RGVtb1VzZXIxMjM=</s>
+  </sc>
+</ds>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{{76D8A07F-E36F-4180-B6A0-8DDAA5CE657C}}</ProjectGuid>
+    <ServerIdentifier>urn:Embedded Server</ServerIdentifier>
+    <ServerUrl>
+    </ServerUrl>
+    <ProductVersion>3.0</ProductVersion>
+    <ProductEdition>Express</ProductEdition>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="AOS Accountservices.vs" />
+    <None Include="AOS Accountservices Performance Model.vspfmodel" />
+    <None Include="AOS Accountservices Limited Performance Model.vspfmodel" />
+    <None Include="AOS Accountservices Offline Performance.vspfmodel" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 020.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 021.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 022.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model.vsmodel" />
+    <None Include="AOS Accountservices Service Description.vsdsc" />
+    <None Include="AOS3.1 AccountService Data Model Dataset.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 001.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 002.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 003.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 004.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 005.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 006.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 007.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 008.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 009.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 010.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 011.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 012.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 013.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 014.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 015.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 016.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 017.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 018.vsdataset" />
+    <None Include="AOS3.1 AccountService Data Model Dataset 019.vsdataset" />
+    <None Include="AOS Accountservices Data Model.vsmodel" />
+    <None Include="AOS Accountservices Data Model Dataset.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 001.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 002.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 003.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 004.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 005.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 006.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 007.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 008.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 009.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 010.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 011.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 012.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 013.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 014.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 015.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 016.vsdataset" />
+    <None Include="AOS Accountservices Data Model Dataset 017.vsdataset" />
+    <None Include="AOS Accountservices.vsmf" />
+  </ItemGroup>
+</Project>

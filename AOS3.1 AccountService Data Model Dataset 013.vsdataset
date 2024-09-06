@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds version="5.9.0.1616" id="859dffdb-44be-4a7b-9116-6eab23e70ab2" vsId="1386ffbc-bfe1-4bcc-958c-b09c65a53b9f" dmId="08eb86cf-b1e9-4d7c-bb3b-55393a7242a0" sorId="412ca61c-55a7-4c6e-a7b7-3ba0a79eaa31" hc="-2069604929" xmlns="http://hp.com/SOAQ/ServiceVirtualization/2010/">
+  <sc id="3acd0283-f93c-41d3-bc34-da9a4346c30b" ts="2021-06-15T15:51:06.1839735Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountConfigurationResponseResponse</ntId>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountConfigurationRequestRequest</ntId>
+    <s p="15:1">sim_default_X-Content-Type-Options</s>
+    <s p="16:1">sim_default_X-XSS-Protection</s>
+    <s p="17:1">sim_default_Cache-Control</s>
+    <s p="18:1">sim_default_Pragma</s>
+    <s p="19:1">sim_default_X-Frame-Options</s>
+    <s p="20:1">sim_default_Access-Control-Request-Method</s>
+    <s p="21:1">sim_default_Access-Control-Allow-Methods</s>
+    <s p="22:1">sim_default_Access-Control-Max-Age</s>
+    <s p="23:1">sim_default_Access-Control-Allow-Headers</s>
+    <s p="24:1">sim_default_Access-Control-Allow-Origin</s>
+    <s p="25:1">sim_default_Accept</s>
+    <s p="26:1">sim_default_SOAPAction</s>
+    <s p="27:1">sim_default_Date</s>
+    <s p="28:1">sim_default_Expires</s>
+    <s p="29:1">sim_default_numberOfFailedLoginAttemptsBeforeBlocking</s>
+    <s p="30:1">sim_default_loginBlockingIntervalInSeconds</s>
+    <s p="31:1">sim_default_productInStockDefaultValue</s>
+    <s p="32:1">sim_default_userSecondWsdl</s>
+    <s p="33:1">sim_default_userLoginTimeout</s>
+    <s p="34:1">sim_default_allowUserConfiguration</s>
+    <s p="35:1">sim_default_productionHostIp</s>
+    <s p="36:1">sim_default_productionHostName</s>
+    <s p="47:1">sim_default_Vary</s>
+  </sc>
+  <sc id="96ec1bea-3d07-42b6-bc8a-350b173e558a" ts="2021-06-15T15:51:06.1839739Z" ri="1" rc="1" rr="false">
+    <ntId p="4:1">default-fault</ntId>
+    <s p="7:1">sim_default_faultcode</s>
+    <s p="9:1">sim_default_faultactor</s>
+    <ntId p="11:1">{urn:soap:a83a2c4e-4bec-4590-9c8e-adba99231525}GetAccountConfigurationRequestRequest</ntId>
+    <s p="15:1">sim_default_X-Content-Type-Options</s>
+    <s p="16:1">sim_default_X-XSS-Protection</s>
+    <s p="17:1">sim_default_Cache-Control</s>
+    <s p="18:1">sim_default_Pragma</s>
+    <s p="19:1">sim_default_X-Frame-Options</s>
+    <s p="20:1">sim_default_Access-Control-Request-Method</s>
+    <s p="21:1">sim_default_Access-Control-Allow-Methods</s>
+    <s p="22:1">sim_default_Access-Control-Max-Age</s>
+    <s p="23:1">sim_default_Access-Control-Allow-Headers</s>
+    <s p="24:1">sim_default_Access-Control-Allow-Origin</s>
+    <s p="25:1">sim_default_Accept</s>
+    <s p="26:1">sim_default_SOAPAction</s>
+    <s p="27:1">sim_default_Date</s>
+    <s p="28:1">sim_default_Expires</s>
+    <s p="37:1">sim_default_lang</s>
+    <s p="38:1">sim_default_value</s>
+    <s p="41:2"></s>
+    <s p="47:1">sim_default_Vary</s>
+  </sc>
+</ds>
